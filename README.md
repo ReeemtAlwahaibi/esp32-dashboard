@@ -30,8 +30,9 @@ A fun and interactive reaction-time game built using ESP32, an ILI9341 TFT scree
 ##  Hardware Used
 
 - ESP32 
-- ILI9341 TFT Display
+- ILI9341 TFT 
 - Push Button
+- Breadboard
 
 ---
 
